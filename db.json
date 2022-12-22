@@ -1,52 +1,28 @@
 {
-    "jobs": [
+    "notes": [
         {
             "id": 1,
-            "company": "Ellette",
-            "postedAt": "2021-03-30",
-            "city": "Gangtok",
-            "location": "American Samoa",
-            "role": "Frontend",
-            "level": "Senior",
-            "contract": "Full Time",
-            "position": " Backend Developer",
-            "language": "Java"
+            "title": "buy medicine",
+            "description": "nicip cold, amoxicillin",
+            "date": "24/02/2022"
         },
         {
             "id": 2,
-            "company": "Jinny",
-            "postedAt": "2021-09-09",
-            "city": "Ludhiana",
-            "location": "Belgium",
-            "role": "Frontend",
-            "level": "Junior",
-            "contract": "Full Time",
-            "position": "Junior Frontend Developer",
-            "language": "Java"
+            "title": "Watch Preclass",
+            "description": "mongodb",
+            "date": "25/02/2022"
         },
         {
             "id": 3,
-            "company": "Vector",
-            "postedAt": "2021-03-09",
-            "city": "Pine",
-            "location": "Newyork",
-            "role": "FullStack",
-            "level": "Junior",
-            "contract": "Full Time",
-            "position": "Junior Frontend Developer",
-            "language": "C"
+            "title": "buy grocery",
+            "description": "hair oil, sugar",
+            "date": "04/02/2022"
         },
         {
             "id": 4,
-            "company": "Ralco",
-            "postedAt": "2022-01-02",
-            "city": "Nashik",
-            "location": "France",
-            "role": "Backend",
-            "level": "Senior",
-            "contract": "Full Time",
-            "position": "Junior Frontend Developer",
-            "language": "Javascript"
+            "title": "go gym",
+            "description": "push day",
+            "date": "20/02/2022"
         }
     ]
 }
