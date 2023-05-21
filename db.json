@@ -265,6 +265,9 @@
             "rating": "★★★★"
         }
     ],
+
+
+
     "womensproduct": [
         {
             "id": 1,
@@ -356,11 +359,11 @@
         },
         {
             "id": 9,
-            "img1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1fa3423aa458424f9c65ac84003a4083_9366/Adicolor_Classics_3-Stripes_Tee_Black_GN2900_21_model.jpg",
-            "img2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1f6107f34e5241819bd5ac84003a4feb_9366/Adicolor_Classics_3-Stripes_Tee_Black_GN2900_23_hover_model.jpg",
-            "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/15adf6f6d8dc496a9253ac84003a83bb_9366/Adicolor_Classics_3-Stripes_Tee_Black_GN2900_25_model.jpg",
-            "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ab19e97d41624800b853ac84003a93e8_9366/Adicolor_Classics_3-Stripes_Tee_Black_GN2900_41_detail.jpg",
-            "name": "ADICOLOR CLASSICS 3-STRIPES TEE",
+            "img1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/619bbcfe0fd54c46b442af3b00871f33_9366/Camo_Trefoil_Infill_Tee_Beige_HZ9835_21_model.jpg",
+            "img2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3f767b93131c48089372af3b0087279e_9366/Camo_Trefoil_Infill_Tee_Beige_HZ9835_23_hover_model.jpg",
+            "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0f912529dda84673bc91af3b00872f32_9366/Camo_Trefoil_Infill_Tee_Beige_HZ9835_25_model.jpg",
+            "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6ea047ecc1144bf68e59af3b008754be_9366/Camo_Trefoil_Infill_Tee_Beige_HZ9835_01_laydown.jpg",
+            "name": "CAMO TREFOIL INFILL TEE",
             "category": "TEE",
             "price": 2099,
             "rating": "★★★★"
