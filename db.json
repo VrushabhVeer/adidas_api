@@ -57,11 +57,11 @@
         },
         {
             "id": 6,
-            "img1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/86b242843bfa4ab0a809ace100bf529e_9366/Arsenal_Tiro_Anthem_Jacket_Red_GR4213_25_model.jpg",
-            "img2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a90cfe48ecc04d89bd43ace100bf4c93_9366/Arsenal_Tiro_Anthem_Jacket_Red_GR4213_23_hover_model.jpg",
-            "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a5dcd74ba0bd4b579670acda00f310da_9366/Arsenal_Tiro_Anthem_Jacket_Red_GR4213_01_laydown.jpg",
-            "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f6194941c2d446dea533ad2800f4143e_9366/Arsenal_Tiro_Anthem_Jacket_Red_GR4213_25_outfit.jpg",
-            "name": "ARSENAL TIRO ANTHEM JACKET",
+            "img1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ac3c9ec878844c0b80c5ae4b013b70f2_9366/BSC_3-Stripes_Hooded_Insulated_Jacket_Blue_HG6270_21_model.jpg",
+            "img2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6efd8ab66d764abd9061ae4b013b7b8c_9366/BSC_3-Stripes_Hooded_Insulated_Jacket_Blue_HG6270_23_hover_model.jpg",
+            "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/eaae69165add4fd0b916ae4b013b85ae_9366/BSC_3-Stripes_Hooded_Insulated_Jacket_Blue_HG6270_25_model.jpg",
+            "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/144940f4ff4442b2948eae4b013bc47e_9366/BSC_3-Stripes_Hooded_Insulated_Jacket_Blue_HG6270_01_laydown.jpg",
+            "name": "STRIPES HOODED INSULATED JACKET",
             "category": "JACKET",
             "price": 3569,
             "rating": "★★★★"
@@ -178,11 +178,11 @@
         },
         {
             "id": 17,
-            "img1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1d31a737f5d34691b96bace70123c99e_9366/Aeromotion_Pants_Blue_H29175_21_model.jpg",
-            "img2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9b4e5039dd7840cfbdeface70124e38e_9366/Aeromotion_Pants_Blue_H29175_25_model.jpg",
-            "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5ee652022aae491fbc2face70121b7b8_9366/Aeromotion_Pants_Blue_H29175_41_detail.jpg",
-            "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5079b4c1bd3a4db1935cad02016ee3ff_9366/Aeromotion_Pants_Blue_H29175_01_laydown.jpg",
-            "name": "AEROMOTION PANTS",
+            "img1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/96bc5bf6116140858fc6af9e0039c795_9366/Graphics_New_Age_Sweat_Pants_Black_IC5756_21_model.jpg",
+            "img2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0c112e13a6f24981836caf9e0039d12f_9366/Graphics_New_Age_Sweat_Pants_Black_IC5756_23_hover_model.jpg",
+            "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/59e0f5d8f4dc4e818cd9af9e0039da58_9366/Graphics_New_Age_Sweat_Pants_Black_IC5756_25_model.jpg",
+            "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b1a0430244004388b663af9e003a0256_9366/Graphics_New_Age_Sweat_Pants_Black_IC5756_01_laydown.jpg",
+            "name": "GRAPHICS NEW AGE SWEAT PANTS",
             "category": "PANTS",
             "price": 2455,
             "rating": "★★★★"
