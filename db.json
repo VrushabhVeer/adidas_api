@@ -7,6 +7,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f67d93166953483eb5e9ae9100eff17b_9366/Reveal_ESS_Hoodie_Grey_HK2725_23_hover_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3fc381ac69954c6d8adcae9100effa8d_9366/Reveal_ESS_Hoodie_Grey_HK2725_25_model.jpg",
             "name": "REVEAL ESS HOODIE",
+            "type": "Mens Original",
             "category": "HOODIE",
             "price": 6999,
             "rating": "★★★★"
@@ -18,6 +19,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0d7542a7a7eb4de6841aae1a00d9ec25_9366/Disney_Mickey_and_Friends_Hoodie_Black_HF4931_23_hover_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/43fc6736328b4126a6edae1a00da2973_9366/Disney_Mickey_and_Friends_Hoodie_Black_HF4931_01_laydown.jpg",
             "name": "DISNEY MICKEY AND FRIENDS HOODIE",
+            "type": "Mens Original",
             "category": "HOODIE",
             "price": 4899,
             "rating": "★★★★"
@@ -29,6 +31,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/746df1e7075047128646ae15011fdd09_9366/adidas_SPRT_Summer_Tee_White_HE4717_23_hover_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1381b9fb1a6641aa9a28ae1501200fdc_9366/adidas_SPRT_Summer_Tee_White_HE4717_01_laydown.jpg",
             "name": "ADIDAS SPRT SUMMER TEE",
+            "type": "Mens Original",
             "category": "TEE",
             "price": 1799,
             "rating": "★★★★★"
@@ -40,6 +43,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/52f0b1630829469489fdae9800a1898d_9366/Designed_for_Movement_AEROREADY_HIIT_Slogan_Training_Tee_White_HN8509_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/28dcd17108384f82877eae850096d9d0_9366/Designed_for_Movement_AEROREADY_HIIT_Slogan_Training_Tee_White_HN8509_01_laydown.jpg",
             "name": "AEROREADY HIIT SLOGAN TRAINING TEE",
+            "type": "Mens Original",
             "category": "TEE",
             "price": 2999,
             "rating": "★★★★"
@@ -51,6 +55,7 @@
             "img3": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/fccf2ba174e84a4b8f42ae1a00f5a10b_9366/Disney_Mickey_and_Friends_Tee_Black_HF4932_01_laydown.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8c33e8c48ee243218b92ae1a00f56ec5_9366/Disney_Mickey_and_Friends_Tee_Black_HF4932_25_model.jpg",
             "name": "DISNEY MICKEY AND FRIENDS TEE",
+            "type": "Mens Original",
             "category": "TEE",
             "price": 1799,
             "rating": "★★★★★"
@@ -62,6 +67,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/eaae69165add4fd0b916ae4b013b85ae_9366/BSC_3-Stripes_Hooded_Insulated_Jacket_Blue_HG6270_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/144940f4ff4442b2948eae4b013bc47e_9366/BSC_3-Stripes_Hooded_Insulated_Jacket_Blue_HG6270_01_laydown.jpg",
             "name": "STRIPES HOODED INSULATED JACKET",
+            "type": "Mens Original",
             "category": "JACKET",
             "price": 3569,
             "rating": "★★★★"
@@ -73,6 +79,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e1a54ecb911349eb9df3ad5e0021948a_9366/Juventus_Icons_Woven_Jacket_Blue_GR2900_23_hover_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5b8a77754f894375b160ad5e0021c96b_9366/Juventus_Icons_Woven_Jacket_Blue_GR2900_01_laydown.jpg",
             "name": "JUVENTUS ICONS WOVEN JACKET",
+            "type": "Mens Original",
             "category": "JACKET",
             "price": 3599,
             "rating": "★★★★★"
@@ -84,6 +91,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/059237652d5d41d4b4a3ad2c001bf1c0_9366/adidas_Sportswear_Track_Suit_Multicolor_H42020_01_laydown.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2c489c46be164d2896a1ad2c001bf823_9366/adidas_Sportswear_Track_Suit_Multicolor_H42020_03_laydown.jpg",
             "name": "ADIDAS SPORTSWEAR TRACK SUIT",
+            "type": "Mens Original",
             "category": "SUIT",
             "price": 3699,
             "rating": "★★★★"
@@ -95,6 +103,7 @@
             "img3": "https://assets.adidas.com/images/w_600,f_auto,q_auto/9dcc6e35bcdb429193ffad3700e7f1df_9366/Essentials_Insulated_Bomber_Jacket_Burgundy_GT9153.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ff4957928f4b42f88d78ad3700e8209b_9366/Essentials_Insulated_Bomber_Jacket_Burgundy_GT9153_23_hover_model.jpg",
             "name": "ESSENTIALS INSULATED BOMBER JACKET",
+            "type": "Mens Original",
             "category": "JACKET",
             "price": 6999,
             "rating": "★★★★"
@@ -106,6 +115,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2312a5d8aa69468da451ae2e00191e08_9366/Happy_Earth_Shorts_Green_HI2964_23_hover_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9f1d033be8d544248104ae2e001962c8_9366/Happy_Earth_Shorts_Green_HI2964_41_detail.jpg",
             "name": "HAPPY EARTH SHORTS",
+            "type": "Mens Original",
             "category": "SHORTS",
             "price": 1999,
             "rating": "★★★★"
@@ -117,6 +127,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c2762dc6b03341b6a25daea200c38eb2_9366/Training_Colourblock_Shorts_Purple_HZ9697_01_laydown.jpg",
             "img4": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/408a3c246f1444898100ae9b00fba2ad_9366/Training_Colourblock_Shorts_Purple_HZ9697_41_detail.jpg",
             "name": "TRAINING COLOURBLOCK SHORTS",
+            "type": "Mens Original",
             "category": "SHORTS",
             "price": 2300,
             "rating": "★★★★"
@@ -128,6 +139,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/51fc42c17e84497190f2aea200c2f9e8_9366/Training_Colourblock_Tee_Red_HZ9689_01_laydown.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/eb21a99d42c7449f9f17ae9b0116d743_9366/Training_Colourblock_Tee_Red_HZ9689_41_detail.jpg",
             "name": "TRAINING COLOURBLOCK TEE",
+            "type": "Mens Original",
             "category": "TEE",
             "price": 2999,
             "rating": "★★★★"
@@ -139,6 +151,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/10dcbc02cc8542d4b081aea200c34750_9366/Training_Colourblock_Tee_Blue_HZ9688_01_laydown.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/982a4f7f96824d1a83f5ae9b0117135a_9366/Training_Colourblock_Tee_Blue_HZ9688_41_detail.jpg",
             "name": "TRAINING COLOURBLOCK TEE",
+            "type": "Mens Original",
             "category": "TEE",
             "price": 1999,
             "rating": "★★★★"
@@ -150,6 +163,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/94239be4958146f2a7f1ae800080a938_9366/Adicolor_Classics_Firebird_Primeblue_Track_Pants_Blue_HL9346_01_laydown.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/367ea1a3b08b4bf8935eae8000808329_9366/Adicolor_Classics_Firebird_Primeblue_Track_Pants_Blue_HL9346_41_detail.jpg",
             "name": "ADICOLOR CLASSICS FIREBIRD PRIMEBLUE TRACK PANTS",
+            "type": "Mens Original",
             "category": "PANTS",
             "price": 4999,
             "rating": "★★★★★"
@@ -161,6 +175,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/eb5b1a6805d3472882e0ad2c0015bef5_9366/Adicolor_Classics_Beckenbauer_Primeblue_Track_Pants_Black_H09115_01_laydown.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2947b8c1a0514e008e4cad2201153ef0_9366/Adicolor_Classics_Beckenbauer_Primeblue_Track_Pants_Black_H09115_41_detail.jpg",
             "name": "ADICOLOR CLASSICS BECKENBAUER PRIMEBLUE TRACK PANTS",
+            "type": "Mens Original",
             "category": "PANTS",
             "price": 4599,
             "rating": "★★★★★"
@@ -172,6 +187,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/81bc99082f5d4d36a9b0ae7900b1c252_9366/adidas_Rekive_Tee_White_HN9049_41_detail.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d3228d3474bc4565ac2fae7900b1df68_9366/adidas_Rekive_Tee_White_HN9049_01_laydown.jpg",
             "name": "ADICOLOR CONTEMPO TEE",
+            "type": "Mens Original",
             "category": "TEE",
             "price": 3399,
             "rating": "★★★★"
@@ -183,6 +199,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/59e0f5d8f4dc4e818cd9af9e0039da58_9366/Graphics_New_Age_Sweat_Pants_Black_IC5756_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b1a0430244004388b663af9e003a0256_9366/Graphics_New_Age_Sweat_Pants_Black_IC5756_01_laydown.jpg",
             "name": "GRAPHICS NEW AGE SWEAT PANTS",
+            "type": "Mens Original",
             "category": "PANTS",
             "price": 2455,
             "rating": "★★★★"
@@ -194,6 +211,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9d2e834353fd46fc991fae9f00c268e2_9366/SINGLE_JERSEY_TEE_Pink_HT3393_23_hover_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/687961243c6e4033a862ae9f00c25894_9366/SINGLE_JERSEY_TEE_Pink_HT3393_41_detail.jpg",
             "name": "SINGLE JERSEY TEE",
+            "type": "Mens Original",
             "category": "TEE",
             "price": 1299,
             "rating": "★★★★"
@@ -205,6 +223,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9c5b56424b2b477b89d7aebb0157f1a7_9366/SINGLE_JERSEY_TEE_White_HT3391_23_hover_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a6a7d93521254770bc81aebb0158010a_9366/SINGLE_JERSEY_TEE_White_HT3391_41_detail.jpg",
             "name": "SINGLE JERSEY TEE",
+            "type": "Mens Original",
             "category": "TEE",
             "price": 1239,
             "rating": "★★★★★"
@@ -216,6 +235,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/bca3e81bf75a43ba82f6ae15011a1666_9366/Adicolor_Trefoil_Plisse_Hoodie_Blue_HC4613_23_hover_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5f96546f47534d04845cae15011a1f81_9366/Adicolor_Trefoil_Plisse_Hoodie_Blue_HC4613_25_model.jpg",
             "name": "ADICOLOR TREFOIL PLISSÉ HOODIE",
+            "type": "Mens Original",
             "category": "HOODIE",
             "price": 3399,
             "rating": "★★★★"
@@ -227,6 +247,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e06462069f2f4ee9b706ad2b0015f61b_9366/Multi_Primegreen_Wind_Fleece_Jacket_Blue_GU6502_23_hover_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/823520d662cd4ec29630ad120114929c_9366/Multi_Primegreen_Wind_Fleece_Jacket_Blue_GU6502_01_laydown.jpg",
             "name": "MULTI PRIMEGREEN WIND FLEECE JACKET",
+            "type": "Mens Original",
             "category": "JACKET",
             "price": 2899,
             "rating": "★★★★"
@@ -238,6 +259,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b73566ed91b941489cf9adad00850fb2_9366/Club_Graphic_Tennis_Shorts_Grey_HB9083_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e92ee59568904265b808adad00853362_9366/Club_Graphic_Tennis_Shorts_Grey_HB9083_41_detail.jpg",
             "name": "CLUB GRAPHIC TENNIS SHORTS",
+            "type": "Mens Original",
             "category": "SHORTS",
             "price": 999,
             "rating": "★★★★"
@@ -249,6 +271,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d0e53704cd114373bc67add70093915f_9366/AEROREADY_Seasonal_Special_Shorts_Blue_HD4338_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/175aabdfe8784fc7be27add7009417be_9366/AEROREADY_Seasonal_Special_Shorts_Blue_HD4338_01_laydown.jpg",
             "name": "AEROREADY SEASONAL SPECIAL SHORTS",
+            "type": "Mens Original",
             "category": "SHORTS",
             "price": 1199,
             "rating": "★★★★"
@@ -260,14 +283,12 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9644bbf2c9324be4a97fadd2014d3afa_9366/Graphics_United_Hoodie_Pink_HF4903_23_hover_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2d37e0c10d404377b185add2014dfc73_9366/Graphics_United_Hoodie_Pink_HF4903_01_laydown.jpg",
             "name": "GRAPHICS UNITED HOODIE",
+            "type": "Mens Original",
             "category": "HOODIE",
             "price": 5199,
             "rating": "★★★★"
         }
     ],
-
-
-
     "womensproduct": [
         {
             "id": 1,
@@ -276,6 +297,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/554b4fc0080646bbbeb2aee7010c7467_9366/PRIME_TEE_A_Blue_GR1327_23_hover_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/42650b5d03e14249997aaee70023f244_9366/PRIME_TEE_A_Blue_GR1327_41_detail.jpg",
             "name": "PRIME TEE A",
+            "type": "Womens Original",
             "category": "TEE",
             "price": 899,
             "rating": "★★★★"
@@ -287,6 +309,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/879d5236a2364c6ea052adae00710af0_9366/SL_TEE_Black_H62406_23_hover_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/24431331e96243a3bc09adae00711c7a_9366/SL_TEE_Black_H62406_41_detail.jpg",
             "name": "SL TEE",
+            "type": "Womens Original",
             "category": "TEE",
             "price": 879,
             "rating": "★★★★"
@@ -298,6 +321,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c9753a6547474bd6bb23addd0140cbb5_9366/adidas_x_Karlie_Kloss_Seamless_Knit_Layered_Top_Grey_HB1429_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/123a803a94984f689edbaddd014109ef_9366/adidas_x_Karlie_Kloss_Seamless_Knit_Layered_Top_Grey_HB1429_01_laydown.jpg",
             "name": "ADIDAS X KARLIE KLOSS SEAMLESS KNIT LAYERED TOP",
+            "type": "Womens Original",
             "category": "TOP",
             "price": 1799,
             "rating": "★★★★"
@@ -309,6 +333,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/eb2b8115bf33495badb5ae9f00bddb51_9366/FEEL_BRILLIANT_TIGHTS_Blue_HS8762_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/48ca8fbb41c84251bd7bae9f00bddb86_9366/FEEL_BRILLIANT_TIGHTS_Blue_HS8762_41_detail.jpg",
             "name": "FEEL BRILLIANT TIGHTS",
+            "type": "Womens Original",
             "category": "TIGHTS",
             "price": 1599,
             "rating": "★★★★"
@@ -320,6 +345,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/cebddee066d44b439d8aae3100d7b060_9366/YOGA_ESSENTIALS_HIGH-WAISTED_TIGHTS_Blue_HD6795_25_outfit.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/98e9933ef56341f7bbc0ae3100d7e71e_9366/YOGA_ESSENTIALS_HIGH-WAISTED_TIGHTS_Blue_HD6795_01_laydown.jpg",
             "name": "YOGA ESSENTIALS HIGH-WAISTED TIGHTS",
+            "type": "Womens Original",
             "category": "TIGHTS",
             "price": 1679,
             "rating": "★★★★"
@@ -331,6 +357,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e62c6af591704e86bc28addd011b105e_9366/adidas_x_Karlie_Kloss_Seamless_Long_Sleeve_Knit_Crop_Top_Blue_HB1427_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4ef3ff307c154365b257addd011b3cfe_9366/adidas_x_Karlie_Kloss_Seamless_Long_Sleeve_Knit_Crop_Top_Blue_HB1427_01_laydown.jpg",
             "name": "ADIDAS X KARLIE KLOSS SEAMLESS LONG SLEEVE KNIT CROP TOP",
+            "type": "Womens Original",
             "category": "TOP",
             "price": 3399,
             "rating": "★★★★"
@@ -342,6 +369,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b03535db6288423b93d6adc5013ff2de_9366/3_Stripes_Leggings_Red_HD1826_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9cdb1419cafd4ded8cc6adc50140155a_9366/3_Stripes_Leggings_Red_HD1826_41_detail.jpg",
             "name": "3 STRIPES LEGGINGS",
+            "type": "Womens Original",
             "category": "LEGGINGS",
             "price": 1305,
             "rating": "★★★★"
@@ -353,6 +381,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ee33e7cacdaa44bdadc3adc60096eacc_9366/3_Stripes_Leggings_Pink_HD1828_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e4616fd948db4f869fe8adc600970bf3_9366/3_Stripes_Leggings_Pink_HD1828_41_detail.jpg",
             "name": "3 STRIPES LEGGINGS",
+            "type": "Womens Original",
             "category": "LEGGINGS",
             "price": 2199,
             "rating": "★★★★"
@@ -364,6 +393,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0f912529dda84673bc91af3b00872f32_9366/Camo_Trefoil_Infill_Tee_Beige_HZ9835_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6ea047ecc1144bf68e59af3b008754be_9366/Camo_Trefoil_Infill_Tee_Beige_HZ9835_01_laydown.jpg",
             "name": "CAMO TREFOIL INFILL TEE",
+            "type": "Womens Original",
             "category": "TEE",
             "price": 2099,
             "rating": "★★★★"
@@ -375,6 +405,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9b239cc9573848eb8ffeadaa01196a61_9366/SPORT_INSPIRED_LOUNGEWEAR_ESSENTIALS_HIGH-WAISTED_LOGO_LEGGINGS_Grey_HD1770_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e5cf0b4fab5e49ee9d39adaa01198e79_9366/SPORT_INSPIRED_LOUNGEWEAR_ESSENTIALS_HIGH-WAISTED_LOGO_LEGGINGS_Grey_HD1770_41_detail.jpg",
             "name": "SPORT INSPIRED LOUNGEWEAR ESSENTIALS HIGH-WAISTED LOGO LEGGINGS",
+            "type": "Womens Original",
             "category": "LEGGINGS",
             "price": 1999,
             "rating": "★★★★"
@@ -386,6 +417,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1962f44453fd4983a650ae1a00aaf55c_9366/Essentials_Yoga_Rib_Tank_Top_Beige_HD6749_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/81f988dcd4544a29b718ae1a00ab34d0_9366/Essentials_Yoga_Rib_Tank_Top_Beige_HD6749_01_laydown.jpg",
             "name": "ESSENTIALS YOGA RIB TANK TOP",
+            "type": "Womens Original",
             "category": "TOP",
             "price": 699,
             "rating": "★★★★"
@@ -397,6 +429,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/912681e19800492295b0ae8800eb8474_9366/Tights_Grey_HM2893_23_hover_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/52f88c61fb7744029db9ae83009cd7da_9366/Tights_Grey_HM2893_01_laydown.jpg",
             "name": "WOMEN ESSENTIALS HIGH-WAISTED TIGHTS",
+            "type": "Womens Original",
             "category": "TIGHTS",
             "price": 2499,
             "rating": "★★★★"
@@ -408,6 +441,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b97a2694bcf54bfd92d5adbe00875323_9366/RUN_ICONS_3_BAR_TANK_TOP_Pink_HB9353_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a091b9dfe8524f1a8075adbe00878002_9366/RUN_ICONS_3_BAR_TANK_TOP_Pink_HB9353_41_detail.jpg",
             "name": "RUN ICONS 3 BAR TANK TOP",
+            "type": "Womens Original",
             "category": "TOP",
             "price": 999,
             "rating": "★★★★"
@@ -419,6 +453,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/41d035b6bda14093a048ae9a001cae4d_9366/Adicolor_Classics_3-Stripes_Tee_Purple_HL6689_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/cc73cc1cb565474a9c35ae9a001cbb43_9366/Adicolor_Classics_3-Stripes_Tee_Purple_HL6689_41_detail.jpg",
             "name": "ADICOLOR CLASSICS 3-STRIPES TEE",
+            "type": "Womens Original",
             "category": "TEE",
             "price": 3199,
             "rating": "★★★★"
@@ -430,6 +465,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/822b09826f124dcb9a84ae8c001cd28f_9366/3_Stripes_Leggings_Green_HK9676_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/003d2e27d3ad45df9e53ae8c001cde25_9366/3_Stripes_Leggings_Green_HK9676_41_detail.jpg",
             "name": "3 STRIPES LEGGINGS",
+            "type": "Womens Original",
             "category": "LEGGINGS",
             "price": 1799,
             "rating": "★★★★"
@@ -441,6 +477,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1b11b9269b244dcbbe58ad8f00a9c1f8_9366/Adicolor_Essentials_Tights_Black_HD2352_23_hover_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/710308238bd349919adfad8f00a9d0d9_9366/Adicolor_Essentials_Tights_Black_HD2352_25_model.jpg",
             "name": "ADICOLOR ESSENTIALS TIGHTS",
+            "type": "Womens Original",
             "category": "TIGHTS",
             "price": 2599,
             "rating": "★★★★"
@@ -452,6 +489,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b670874462484766a356ad52012c4200_9366/Own_the_Run_Hooded_Wind_Jacket_Blue_H31033_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/62e60de003c146648ea9ad8101136f24_9366/Own_the_Run_Hooded_Wind_Jacket_Blue_H31033_01_laydown.jpg",
             "name": "OWN THE RUN HOODED WIND JACKET",
+            "type": "Womens Original",
             "category": "JACKET",
             "price": 5799,
             "rating": "★★★★"
@@ -463,6 +501,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d48880040dbb48e2b966ad1900bc9807_9366/Adizero_Marathon_Jacket_White_GT9742_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/53129c284cbf4f898d51ad110168edae_9366/Adizero_Marathon_Jacket_White_GT9742_01_laydown.jpg",
             "name": "ADIZERO MARATHON JACKET",
+            "type": "Womens Original",
             "category": "JACKET",
             "price": 6259,
             "rating": "★★★★"
@@ -474,6 +513,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6f3cf1c142b644988635ae1c00d4cf10_9366/Adicolor_Classics_Firebird_Primeblue_Track_Jacket_Burgundy_HG3787_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/02cccacd1a614aa3b3f1ae1c00d4db71_9366/Adicolor_Classics_Firebird_Primeblue_Track_Jacket_Burgundy_HG3787_41_detail.jpg",
             "name": "ADICOLOR CLASSICS FIREBIRD PRIMEBLUE TRACK JACKET",
+            "type": "Womens Original",
             "category": "JACKET",
             "price": 6599,
             "rating": "★★★★"
@@ -485,6 +525,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c04dffe4831d4da1954aad9a00c7411f_9366/Run_Fast_Radically_Reflective_Windbreaker_Pink_HC1660_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ce8f191170054aafabaead9a00c75971_9366/Run_Fast_Radically_Reflective_Windbreaker_Pink_HC1660_41_detail.jpg",
             "name": "RUN FAST RADICALLY REFLECTIVE WINDBREAKER",
+            "type": "Womens Original",
             "category": "JACKET",
             "price": 5599,
             "rating": "★★★★"
@@ -496,6 +537,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1352c8135e2d42feb0b6ae1800943266_9366/FUTURE_ICONS_3-STRIPES_FZ_REG_HOODED_TRACK_TOP_Burgundy_HB8577_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/eeb76b1b296344b1873cae300089ab74_9366/FUTURE_ICONS_3-STRIPES_FZ_REG_HOODED_TRACK_TOP_Burgundy_HB8577_41_detail.jpg",
             "name": "FUTURE ICONS 3-STRIPES FZ REG HOODIE",
+            "type": "Womens Original",
             "category": "HOODIE",
             "price": 2599,
             "rating": "★★★★"
@@ -507,6 +549,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/215ed3b4ed3041418cbbadc6006e977f_9366/Adicolor_Classics_Hoodie_Purple_HC4550_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1da6d0f722054cca9c49adc6006f54ad_9366/Adicolor_Classics_Hoodie_Purple_HC4550_01_laydown.jpg",
             "name": "ADICOLOR CLASSICS HOODIE",
+            "type": "Womens Original",
             "category": "HOODIE",
             "price": 3099,
             "rating": "★★★★"
@@ -518,6 +561,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/786bb0a14db949fcb6e5ada000bb23f8_9366/adidas_x_Karlie_Kloss_Hoodie_White_HB1448_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e079161169e74a93877eada000bb69a8_9366/adidas_x_Karlie_Kloss_Hoodie_White_HB1448_01_laydown.jpg",
             "name": "ADIDAS X KARLIE KLOSS HOODIE",
+            "type": "Womens Original",
             "category": "HOODIE",
             "price": 2799,
             "rating": "★★★★"
@@ -529,6 +573,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e027083be24c4307a36cad9a00d5a463_9366/Adicolor_Oversize_Hoodie_Burgundy_HC7102_25_model.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/eb9d12e618d34980b56aad9a00d5b96d_9366/Adicolor_Oversize_Hoodie_Burgundy_HC7102_41_detail.jpg",
             "name": "ADICOLOR OVERSIZE HOODIE",
+            "type": "Womens Original",
             "category": "HOODIE",
             "price": 4700,
             "rating": "★★★★"
@@ -542,6 +587,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8b253171cdc24af798fbae2b00500b57_9366/Supernova_2_Running_Shoes_Green_GW9092_05_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/246ce95ab33f47ba9ea3ae2b004ff97e_9366/Supernova_2_Running_Shoes_Green_GW9092_03_standard.jpg",
             "name": "SUPERNOVA 2 RUNNING SHOES",
+            "type": "Adidas Original",
             "category": "RUNNING",
             "gender": "UNISEX",
             "price": 7799,
@@ -554,6 +600,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c92474eedbd243889d03aec800806654_9366/ADI_EASE_SHOES_Grey_EY2908_05_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2cab64de059c46ff87daaec80080545c_9366/ADI_EASE_SHOES_Grey_EY2908_03_standard.jpg",
             "name": "ADI EASE SHOES",
+            "type": "Adidas Original",
             "category": "RUNNING",
             "gender": "WOMEN",
             "price": 8500,
@@ -566,6 +613,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6529137f0c2443cc985fae32009a3ec1_9366/WIND_CHASER_SHOES_Green_GA3020_05_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/97a9622d0bd541da9508ae32009a4124_9366/WIND_CHASER_SHOES_Green_GA3020_03_standard.jpg",
             "name": "WIND CHASER SHOES",
+            "type": "Adidas Original",
             "category": "OUTDOOR",
             "gender": "MEN",
             "price": 4700,
@@ -578,6 +626,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e2628e6907504f44bfd3aec80090bc2b_9366/AESTHETO_SHOES_Purple_GA1081_05_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7fb9a7cd71be490d8d5daeba009e2b52_9366/AESTHETO_SHOES_Purple_GA1081_03_standard.jpg",
             "name": "AESTHETO SHOES",
+            "type": "Adidas Original",
             "category": "RUNNING",
             "gender": "WOMEN",
             "price": 3499,
@@ -590,6 +639,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/36e9d36d9ba54a2d8375ae6f012073c1_9366/EQ21_Run_Shoes_Grey_GW6724_05_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8c4a8025491c4c05a77eae6f01206186_9366/EQ21_Run_Shoes_Grey_GW6724_03_standard.jpg",
             "name": "EQ21 RUN SHOES",
+            "type": "Adidas Original",
             "category": "RUNNING",
             "gender": "UNISEX",
             "price": 8999,
@@ -602,6 +652,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2b2b6a14910a41dcb32aad79009230db_9366/EQ21_Run_Shoes_White_GZ6868_04_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/abe644dfef75471ab99ead790092295d_9366/EQ21_Run_Shoes_White_GZ6868_03_standard.jpg",
             "name": "EQ21 RUN SHOES",
+            "type": "Adidas Original",
             "category": "RUNNING",
             "gender": "UNISEX",
             "price": 2700,
@@ -614,6 +665,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7259ca7f6b5b4664ac8ead7b00c37d9a_9366/Predator_Edge.3_Low_Indoor_Boots_Blue_GX0016_05_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/714246e742cb45e69408ad7b00c36e8f_9366/Predator_Edge.3_Low_Indoor_Boots_Blue_GX0016_03_standard.jpg",
             "name": "PREDATOR EDGE.3 LOW INDOOR BOOTS",
+            "type": "Adidas Original",
             "category": "FOOTBALL",
             "gender": "UNISEX",
             "price": 4990,
@@ -626,6 +678,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8e4fba58e886451bb7edaeda0063a9c8_9366/GLIDEEASE_SHOES_Black_GB1767_03_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f4a23341b70a475a85a5aeda0063b895_9366/GLIDEEASE_SHOES_Black_GB1767_05_standard.jpg",
             "name": "GLIDEEASE SHOES",
+            "type": "Adidas Original",
             "category": "RUNNING",
             "gender": "UNISEX",
             "price": 4700,
@@ -638,6 +691,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6903f94877774ee885b0ae6800c24412_9366/RIGKET_SHOES_Grey_GA3009_05_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f5b2c5d5a2c94eb9966eae6800c24636_9366/RIGKET_SHOES_Grey_GA3009_03_standard.jpg",
             "name": "RIGKET SHOES",
+            "type": "Adidas Original",
             "category": "OUTDOOR",
             "gender": "MEN",
             "price": 3999,
@@ -650,6 +704,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/845998a9b9b0479bad82adb900ae930f_9366/Adi_Zoom_Shoes_Grey_EY2930_05_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4a9dd081e178476ba28aadb900ae9cb0_9366/Adi_Zoom_Shoes_Grey_EY2930_03_standard.jpg",
             "name": "ADI ZOOM SHOES",
+            "type": "Adidas Original",
             "category": "RUNNING",
             "gender": "UNISEX",
             "price": 5699,
@@ -662,6 +717,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0bb88f0d1a3d499ca01aae9e00ec5cb3_9366/Predator_Edge.3_Firm_Ground_Boots_Orange_GW1005_04_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/520a6d42374e439dbef6ae9e00ec416f_9366/Predator_Edge.3_Firm_Ground_Boots_Orange_GW1005_02_standard.jpg",
             "name": "PREDATOR EDGE.3 FIRM GROUND BOOTS",
+            "type": "Adidas Original",
             "category": "FOOTBALL",
             "gender": "UNISEX",
             "price": 5990,
@@ -674,6 +730,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c1c27b27080b49549cfcae4e007ce71a_9366/WIND_CHASER_SHOES_Blue_GA3019_05_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d8422c2be04c440bba13ae4e007ce770_9366/WIND_CHASER_SHOES_Blue_GA3019_03_standard.jpg",
             "name": "WIND CHASER SHOES",
+            "type": "Adidas Original",
             "category": "OUTDOOR",
             "gender": "MEN",
             "price": 3700,
@@ -686,6 +743,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/70a5a6fae41c4c31914eae9e011f1e1d_9366/Copa_Sense.3_Firm_Ground_Boots_Yellow_GY8928_02_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c598e2041a6840fa9c77ae9e011f2e16_9366/Copa_Sense.3_Firm_Ground_Boots_Yellow_GY8928_04_standard.jpg",
             "name": "COPA SENSE.3 FIRM GROUND BOOTS",
+            "type": "Adidas Original",
             "category": "FOOTBALL",
             "gender": "UNISEX",
             "price": 9999,
@@ -698,6 +756,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c90fa82be42e40ffb3dcae7400fa0fba_9366/X_SPEEDPORTAL.4_FxG_Green_GW8494_02_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b3d961a48d954927b136ae7400fa3788_9366/X_SPEEDPORTAL.4_FxG_Green_GW8494_04_standard.jpg",
             "name": "X SPEEDPORTAL.4 FXG",
+            "type": "Adidas Original",
             "category": "FOOTBALL",
             "gender": "UNISEX",
             "price": 12999,
@@ -710,6 +769,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/02616c4cda12414ba202aebb006eb950_9366/TERREX_JERZOTRAIL_PRO_SHOES_Green_GA3011_06_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d22e7a8baf4d4e668f7eaebb006e95c8_9366/TERREX_JERZOTRAIL_PRO_SHOES_Green_GA3011_03_standard.jpg",
             "name": "TERREX JERZOTRAIL PRO SHOES",
+            "type": "Adidas Original",
             "category": "OUTDOOR",
             "gender": "MEN",
             "price": 7900,
@@ -722,6 +782,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/327eeb6616a44278960fae1400b29382_9366/Breaknet_Plus_Shoes_White_GW5590_05_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4221c16005b24a4686e9ae1400b28274_9366/Breaknet_Plus_Shoes_White_GW5590_03_standard.jpg",
             "name": "BREAKNET PLUS SHOES",
+            "type": "Adidas Original",
             "category": "SNEAKER",
             "gender": "MEN",
             "price": 3270,
@@ -734,6 +795,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/643f765c9f024982970cadfd00dd1ffa_9366/Tracefinder_Trail_Running_Shoes_Purple_Q47240_04_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4a1f460c473d48f29cf0adfd00dd1541_9366/Tracefinder_Trail_Running_Shoes_Purple_Q47240_03_standard.jpg",
             "name": "TRACEFINDER TRAIL SHOES",
+            "type": "Adidas Original",
             "category": "TRAINING",
             "gender": "WOMEN",
             "price": 3599,
@@ -746,6 +808,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a9e4a56537d34680ae9eac210127d326_9366/Stan_Smith_Shoes_White_FX5501_05_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ca9dbbc7180d4987aad1ac210127c495_9366/Stan_Smith_Shoes_White_FX5501_03_standard.jpg",
             "name": "STAN SMITH SHOES",
+            "type": "Adidas Original",
             "category": "SNEAKER",
             "gender": "MEN",
             "price": 7990,
@@ -758,6 +821,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d4244d69066747ac887bad7100d59b87_9366/Lite_Racer_CLN_2.0_Shoes_Pink_GZ0667_05_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/46d20ab635cc4efaba36ad7100d58c79_9366/Lite_Racer_CLN_2.0_Shoes_Pink_GZ0667_03_standard.jpg",
             "name": "LITE RACER CLN 2.0 SHOES",
+            "type": "Adidas Original",
             "category": "TRAINING",
             "gender": "WOMEN",
             "price": 3979,
@@ -770,6 +834,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/eb3407572dce4bb8b4dfadcb01026f47_9366/Dropset_Trainers_Black_GX7954_05_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/31735735f49144e0a603adcb01029b7b_9366/Dropset_Trainers_Black_GX7954_03_standard.jpg",
             "name": "DROPSET TRAINERS",
+            "type": "Adidas Original",
             "category": "TRAINING",
             "gender": "MEN",
             "price": 9099,
@@ -782,6 +847,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/64836a2b3c4f45818c5dacf600cb4d99_9366/Lite_Racer_CLN_2.0_Shoes_Black_GZ2818_04_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5bed0c27d7b24d9c982cacf600cb45ec_9366/Lite_Racer_CLN_2.0_Shoes_Black_GZ2818_03_standard.jpg",
             "name": "LITE RACER CLN 2.0 SHOES",
+            "type": "Adidas Original",
             "category": "TRAINING",
             "gender": "WOMEN",
             "price": 4199,
@@ -794,6 +860,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ebe5146ef13d4d9096a5aae700d2c437_9366/SUPERSTAR_SHOES_Black_EG4959_05_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9aa935080d1849a1829daae700d2aba1_9366/SUPERSTAR_SHOES_Black_EG4959_03_standard.jpg",
             "name": "SUPERSTAR SHOES",
+            "type": "Adidas Original",
             "category": "SNEAKER",
             "gender": "MEN",
             "price": 10999,
@@ -806,6 +873,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/77f80d93e24b433fa8ceaeb400f3761e_9366/Rich_Mnisi_Ozelia_Shoes_Black_GW0547_05_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fae9cdc8aefa4b6cab00aeb400f39d2d_9366/Rich_Mnisi_Ozelia_Shoes_Black_GW0547_03_standard.jpg",
             "name": "RICH MNISI OZELIA SHOES",
+            "type": "Adidas Original",
             "category": "SNEAKER",
             "gender": "WOMEN",
             "price": 6899,
@@ -818,6 +886,7 @@
             "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d3fece5ea43048c9b658adfb00881e86_9366/Superstar_Shoes_Green_GY6498_05_standard.jpg",
             "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d7ab0e1e9e034b02b38aadfb00884368_9366/Superstar_Shoes_Green_GY6498_03_standard.jpg",
             "name": "SUPERSTAR SHOES",
+            "type": "Adidas Original",
             "category": "SNEAKER",
             "gender": "MEN",
             "price": 9990,
