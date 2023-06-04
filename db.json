@@ -98,11 +98,11 @@
         },
         {
             "id": 9,
-            "img1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/32215800e79f458cb6fbad3700e81709_9366/Essentials_Insulated_Bomber_Jacket_Burgundy_GT9153_22_model.jpg",
-            "img2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8ad734ae8d0f4fa9bf63ad3700e829c8_9366/Essentials_Insulated_Bomber_Jacket_Burgundy_GT9153_25_model.jpg",
-            "img3": "https://assets.adidas.com/images/w_600,f_auto,q_auto/9dcc6e35bcdb429193ffad3700e7f1df_9366/Essentials_Insulated_Bomber_Jacket_Burgundy_GT9153.jpg",
-            "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ff4957928f4b42f88d78ad3700e8209b_9366/Essentials_Insulated_Bomber_Jacket_Burgundy_GT9153_23_hover_model.jpg",
-            "name": "ESSENTIALS INSULATED BOMBER JACKET",
+            "img1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8313850119e64527bb94ae4b013be119_9366/BSC_3-Stripes_Insulated_Jacket_Green_HG6273_21_model.jpg",
+            "img2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/50e6b011d7424d0ea673ae4b013beb7f_9366/BSC_3-Stripes_Insulated_Jacket_Green_HG6273_23_hover_model.jpg",
+            "img3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ca1fcc5d50e04a039764ae4b013bf53d_9366/BSC_3-Stripes_Insulated_Jacket_Green_HG6273_25_model.jpg",
+            "img4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/16b78ed4974f42f08779ae4b013c349b_9366/BSC_3-Stripes_Insulated_Jacket_Green_HG6273_01_laydown.jpg",
+            "name": "BSC 3-STRIPES INSULATED JACKET",
             "type": "Mens Original",
             "category": "JACKET",
             "price": 6999,
@@ -289,6 +289,13 @@
             "rating": "★★★★"
         }
     ],
+
+
+
+
+
+
+    
     "womensproduct": [
         {
             "id": 1,
@@ -579,6 +586,12 @@
             "rating": "★★★★"
         }
     ],
+
+
+
+
+
+
     "shoes": [
         {
             "id": 1,
